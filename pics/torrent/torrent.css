@@ -1,0 +1,164 @@
+/*  dcls типа  */
+.btTbl {
+    BORDER-RIGHT: #98aab1 0px solid; 
+    BORDER-TOP: #98aab1 0px solid; 
+    BORDER-LEFT: #98aab1 0px solid; 
+    BORDER-BOTTOM: #98aab1 0px solid; 
+    BACKGROUND-COLOR: #6699cc
+}
+.row1 {
+    BACKGROUND-COLOR: #f4f8fb
+}
+.row3 {
+    BACKGROUND-COLOR: #AACCFF;
+    font-weight: bold;
+}
+.gen {
+    FONT-SIZE: 10pt
+}
+.genmed {
+    FONT-SIZE: 9pt
+}
+.gensmall {
+    FONT-SIZE: 8pt
+}
+.spoiler-wrap {
+    CLEAR: both; 
+    BORDER-RIGHT: #c3cbd1 1px solid; 
+    BORDER-TOP: #c3cbd1 1px solid; 
+    BACKGROUND: #AACCFF; 
+    MARGIN: 6px auto; 
+    BORDER-LEFT: #c3cbd1 2px solid; 
+    WIDTH: 95%; 
+    BORDER-BOTTOM: #c3cbd1 1px solid;
+}
+
+.spoiler-wrap-title a{
+    color: #3030BB;
+}
+.spoiler-wrap-title a:visited{
+    color: #3030BB;
+}
+.spoiler-wrap-title a:active{
+    color: #3030BB;
+}
+
+
+.spoiler-head {
+    PADDING-RIGHT: 14px; 
+    PADDING-LEFT: 14px; 
+    FONT-SIZE: 11px; 
+    PADDING-BOTTOM: 3px; 
+    MARGIN-LEFT: 6px; 
+    LINE-HEIGHT: 15px; 
+    PADDING-TOP: 1px;
+}
+.spoiler-body {
+    PADDING-RIGHT: 6px; 
+    BORDER-TOP: #c3cbd1 1px solid; 
+    DISPLAY: none; 
+    PADDING-LEFT: 6px; 
+    BACKGROUND: #f5f5f5; 
+    PADDING-BOTTOM: 2px; 
+    PADDING-TOP: 1px;
+}
+
+.nik_images {max-width:150px; vertical-align: bottom; margin-top:-6px}
+
+/* поиск rutor */
+.restable {
+
+        
+	border-left: 1px solid #ebebeb;
+	border-right: 1px solid #ebebeb;
+}
+
+.restable th {
+        width: 100px;
+	padding: 6px;
+	text-align: left;
+}
+
+.restable thead tr {
+        
+	cursor: pointer;
+	background: #AACCFF;
+	border: 1px solid #98aab1;
+	border-radius: 5px;
+	color: #fff;
+	text-shadow: 1px 1px 2px black;
+}
+
+.restable a {
+	text-decoration:none;
+}
+
+.restable a:hover {
+	text-decoration:underline;
+}
+
+.restable tr:nth-child(2n) {
+	background-color:#f7f7f7;
+}
+
+.restable tr {
+	background-color:#fefefe;
+}
+
+.restable tbody tr:hover {
+	background-color:#e7e7e7;
+}
+
+.restable td {
+	padding:6px;
+	vertical-align:middle;
+	border-bottom: 1px solid #cccccc;
+	color: #333333;
+	font-size:12px;
+}
+
+#pselect {
+	display: inline;
+	padding: 5px 12px;
+	background: #ebebeb;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.251);
+	cursor: pointer;
+	border-radius: 5px;
+	color: #808080;
+	text-shadow: white 0px 1px 2px;
+	margin: 3px;
+	font-size: 15px;
+}
+
+#pselect.active, #pselect:hover {
+	background: #97d234 !important;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.251);
+	text-shadow: 1px 1px 2px black;
+	color: #fff !important;
+}
+
+.restable th {
+        
+	white-space: inherit;
+}
+
+.restable th > span { 
+    background: url("../pics/torrent/nosorted.gif") 0px 50% no-repeat; 
+	padding-left: 8px;
+}
+.restable .up > span { 
+    background: url("../pics/torrent/down.gif") 0px 50% no-repeat; 
+	padding-left: 8px;
+}
+.restable .down > span { 
+    background: url("../pics/torrent/up.gif") 0px 50% no-repeat; 
+	padding-left: 8px;
+} 
+
+.restable b {
+	background: #e4ffb5;
+}
+
+.restable a:hover {
+	color: #5f8f0b;
+ }

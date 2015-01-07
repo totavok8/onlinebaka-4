@@ -1,0 +1,1 @@
+<span id="genre">{name}</span>

@@ -1,0 +1,2 @@
+<div class="more-block"><h1>Поиск по сайту</h1><div class="more-block-in">
+<div id="searchtable" name="searchtable" class="searchtable">{searchtable}</div><br>[searchmsg]{searchmsg}[/searchmsg]</div></div>

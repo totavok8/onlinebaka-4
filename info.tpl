@@ -1,0 +1,1 @@
+<div class="notify_box"><b>{title}:</b>&nbsp;&nbsp;{error}</div>
