@@ -1,4 +1,4 @@
 # onlinebaka-4
-onlinebaka - Адаптированный Аниме шаблон (Рип сайта AniUchi.ru) для anibaka.uz под DataLifeEngine 10.3
+onlinebaka - Адаптированный Аниме шаблон для anibaka.uz под DataLifeEngine 10.3 (windows-1251) разработанный совместно с ТО "AniMan" (Творческое Объединение "AniMan": AniBaka Solution Ltd & ЧП "Anime Group" & AniUchi.ru)
 
-<img src="http://i68.fastpic.ru/big/2015/0108/c3/860928f814da855161bf2f440145c7c3.png">
+Для сайта с кодировкой в UTF-8 нужно конвертировать из cp1251(windows-1251) в UTF-8(без BOM)
